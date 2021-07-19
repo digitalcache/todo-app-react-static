@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.10da8476.chunk.css",
+    "main.js": "./static/js/main.e16b065d.chunk.js",
+    "main.js.map": "./static/js/main.e16b065d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b4c0ae84.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b4c0ae84.js.map",
+    "static/js/2.3e2a5d19.chunk.js": "./static/js/2.3e2a5d19.chunk.js",
+    "static/js/2.3e2a5d19.chunk.js.map": "./static/js/2.3e2a5d19.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.f9373fc9492554ef5fd195353e50aedf.js": "./precache-manifest.f9373fc9492554ef5fd195353e50aedf.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.10da8476.chunk.css.map": "./static/css/main.10da8476.chunk.css.map",
+    "static/js/2.3e2a5d19.chunk.js.LICENSE.txt": "./static/js/2.3e2a5d19.chunk.js.LICENSE.txt",
+    "static/media/add-blue.svg": "./static/media/add-blue.08126b26.svg",
+    "static/media/checked.svg": "./static/media/checked.0e227ab5.svg",
+    "static/media/not-checked.svg": "./static/media/not-checked.558bca77.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4c0ae84.js",
+    "static/js/2.3e2a5d19.chunk.js",
+    "static/css/main.10da8476.chunk.css",
+    "static/js/main.e16b065d.chunk.js"
+  ]
+}
